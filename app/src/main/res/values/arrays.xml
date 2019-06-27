@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_array">4
+        <item>male</item>
+        <item>female</item>
+        <item>diverse</item>
+    </string-array>
+    <string-array name="String">
+            <item>1990</item>
+    </string-array>
+</resources>
